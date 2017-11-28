@@ -20,6 +20,10 @@ It can
 - choose summons among a user-defined list of preferences, and refresh summons when some are not available
 - refill BP on its own when needed
 - stop automatically when the captcha screen appears, when X AP potions were used or when Y minutes were elapsed
+- ignore raids below X% remaning HP (as this raid is more likely to end by the time you join and press a button)
+- retreat from raids which drag too long (High Level Chevalier for instance)
+
+Last but not least, it **never gets tired**.
 
 It is compatible with Viramate skill and summon hotkeys, should you use it. It is generally faster to use the hotkeys instead of clicking on the character whose ability you want to use, then on that ability icon.
 
