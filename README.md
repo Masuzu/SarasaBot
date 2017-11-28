@@ -17,7 +17,7 @@ It can
 - track raids in real time faster than Tweetdeck
 - join raids faster a human can. First come first serve!
 - parse user scripts to **[use skills and summons](https://www.youtube.com/watch?v=SwWNsTNXWSc)** and customize the sequences of actions performed during fights, the same was as [Zooey Bot](https://github.com/Masuzu/ZooeyBot). This offers a plethora of possibilities to help you tackle the harder quests.
-- choose summons among a user-defined list of preferences, and refresh summons when some are not available (check the first minutes of the Dimensional Halo demo above)
+- choose summons among a user-defined list of preferences, and refresh summons when some are not available
 - refill BP on its own when needed
 - stop automatically when the captcha screen appears, when X AP potions were used or when Y minutes were elapsed
 
@@ -32,13 +32,13 @@ Sarasa Bot does not store any personal information about the user account.
 
 ## Why Viramate or (insert here any other extension name which can be found on the Chrome store) can be easily detected?
 
-By design from Google, the only way to know whether a Chrome extension is used is to know its ID. As stated above, Chrome Web Store extensions have a fixed ID from the first day they are released on the store. Zooey is not available on the Chrome Web Store and is installed by loading it manually. Therefore, regenerating its ID on demand and at any time makes it untrackable.
+By design from Google, the only way to know whether a Chrome extension is used is to know its ID. As stated above, Chrome Web Store extensions have a fixed ID from the first day they are released on the store. Sarasa is not available on the Chrome Web Store and is installed by loading it manually. Therefore, regenerating its ID on demand and at any time makes it untrackable.
 
 ## Why tampering with frame per seconds and other similar hacks can be easily detected?
 
 Just to give you some context, this allowed players to increase the speed of the animations by a significant amount, resulting in faster turns and thus much more damage dealt than regular players. This was achieved by *modifying* some of the Javascript variables on the GBF webpage. Detecting that a variable has an impossible value in your webpage is easy, isn't it? Bingo!
 
-**Zooey does not mess with any of the elements of the HTML page, neither does it try to modify any of the Javascript variables on the GBF webpage.**
+**Sarasa does not mess with any of the elements of the HTML page, neither does it try to modify any of the Javascript variables on the GBF webpage.**
 
 # Resources
 
