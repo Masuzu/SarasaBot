@@ -23,6 +23,7 @@ It can
 - stop automatically when the captcha screen appears, when X AP potions were used or when Y minutes were elapsed
 - ignore raids below X% remaning HP (as this raid is more likely to end by the time you join and press a button)
 - retreat from raids which drag too long (High Level Chevalier for instance)
+- minimize the number of clicks when collecting raid rewards to maintain a high raid participation throughput during peak hours
 
 Last but not least, it **never gets tired**.
 
