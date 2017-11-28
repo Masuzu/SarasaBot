@@ -4,10 +4,10 @@ Sarasa is a bot for Granblue Fantasy designed to automatically track raids, join
 ```
 raids_to_track = <user defined>
 while (continue) do
-  new_raid = wait for new raid in raids_to_track
-  join new raid
+  new_raid = wait for new raid in raids_to_track to pop
+  join new_raid
   run <user defined Lua script>  
-  if can't join new raid then
+  if Sarasa can't join a new raid then
     collect loot
   end
 end
@@ -17,6 +17,7 @@ It can
 - track raids in real time faster than Tweetdeck
 - join raids faster a human can. First come first serve!
 - parse user scripts to **[use skills and summons](https://www.youtube.com/watch?v=SwWNsTNXWSc)** and customize the sequences of actions performed during fights, the same was as [Zooey Bot](https://github.com/Masuzu/ZooeyBot). This offers a plethora of possibilities to help you tackle the harder quests.
+- join another raid mid-fight without having to wait for the end of the battle
 - choose summons among a user-defined list of preferences, and refresh summons when some are not available
 - refill BP on its own when needed
 - stop automatically when the captcha screen appears, when X AP potions were used or when Y minutes were elapsed
