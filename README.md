@@ -1,6 +1,6 @@
 # Who is サラーサボット (Sarasa bot)?
 
-Sarasa is a bot for Granblue Fantasy designed to automatically track raids, join them and collect the loot. berr
+Sarasa is a bot for Granblue Fantasy designed to automatically track raids, join them, collect the loot, and then do the same again!
 ```
 raids_to_track = <user defined>
 while (continue) do
@@ -13,7 +13,7 @@ while (continue) do
 end
 ```
 
-It can:
+It can
 - track raids in real time faster than Tweetdeck
 - join raids faster a human can. First come first serve!
 - parse user scripts to **[use skills and summons](https://www.youtube.com/watch?v=SwWNsTNXWSc)** and customize the sequences of actions performed during fights, the same was as [Zooey Bot](https://github.com/Masuzu/ZooeyBot). This offers a plethora of possibilities to help you tackle the harder quests.
