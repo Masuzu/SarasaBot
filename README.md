@@ -50,10 +50,12 @@ Just to give you some context, this allowed players to increase the speed of the
 
 [Setup and installation](https://github.com/Masuzu/SarasaBot/wiki/Setup-and-installation)
 
+[Raid selection](https://github.com/Masuzu/SarasaBot/wiki/Raid-selection)
+
 [Lua scripts](https://github.com/Masuzu/ZooeyBot/wiki/Lua-scripts)
 
 [Regenerating your Sarasa extension ID](https://github.com/Masuzu/ZooeyBot/wiki/Regenerating-your-Zooey-extension-ID)
 
-[Summon selection]()
+[Summon selection](https://github.com/Masuzu/SarasaBot/wiki/Summon-selection)
 
 [Frequently Asked Questions](https://github.com/Masuzu/ZooeyBot/wiki/FAQ)
