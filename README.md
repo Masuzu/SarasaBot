@@ -14,8 +14,8 @@ end
 ```
 
 It can:
-- track raids in real time faster than Tweetdeck
-- join raids faster a human can. First come first serve!
+- track raids **in real time** faster than Tweetdeck
+- join raids **faster** than a human can. First come first serve!
 - parse user scripts to **[use skills and summons](https://www.youtube.com/watch?v=SwWNsTNXWSc)** and customize the sequences of actions performed during fights, the same was as [Zooey Bot](https://github.com/Masuzu/ZooeyBot). This offers a plethora of possibilities to help you tackle the harder quests.
 - join another raid mid-fight without having to wait for the end of the battle
 - choose summons among a user-defined list of preferences, and refresh summons when some are not available
