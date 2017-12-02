@@ -29,7 +29,7 @@ Last but not least, it **never gets tired**.
 
 It is compatible with Viramate skill and summon hotkeys, should you use it. It is generally faster to use the hotkeys instead of clicking on the character whose ability you want to use, then on that ability icon.
 
-Sarasa Bot consists in an executable program and a Chrome Extension. Contrary to Chrome Web Store extensions which can be tracked by ID (such as Viramate or AnCheera), the Zooey Bot extension has no fixed ID: its ID is generated randomly at installation and can be easily *[regenerated on demand](https://github.com/Masuzu/ZooeyBot/wiki/Regenerating-your-Zooey-extension-ID)*. Sarasa does not inject any Javascript code or HTML contents tampering with the original GBF webpage. In the same fashioin as [Zooey Bot](https://github.com/Masuzu/ZooeyBot), Sarasa controls your mouse and keyboard inputs in the same way as a human would do: click positions, mouse trajectories and delays are all randomized.
+Sarasa Bot consists in an executable program and a Chrome Extension. Contrary to Chrome Web Store extensions which can be tracked by ID (such as Viramate or AnCheera), the Sarasa Bot extension has no fixed ID: its ID is generated randomly at installation and can be easily *[regenerated on demand](https://github.com/Masuzu/ZooeyBot/wiki/Regenerating-your-Zooey-extension-ID)*. Sarasa does not inject any Javascript code or HTML contents tampering with the original GBF webpage. In the same fashioin as [Zooey Bot](https://github.com/Masuzu/ZooeyBot), Sarasa controls your mouse and keyboard inputs in the same way as a human would do: click positions, mouse trajectories and delays are all randomized.
 
 Sarasa Bot does not store any personal information about the user account.
 
