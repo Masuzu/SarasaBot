@@ -50,6 +50,8 @@ Just to give you some context, this allowed players to increase the speed of the
 
 [Setup and installation](https://github.com/Masuzu/SarasaBot/wiki/Setup-and-installation)
 
+[Getting down to business: first run](https://github.com/Masuzu/SarasaBot/wiki/Getting-started)
+
 [Raid selection](https://github.com/Masuzu/SarasaBot/wiki/Raid-selection)
 
 [Lua scripts](https://github.com/Masuzu/ZooeyBot/wiki/Lua-scripts)
