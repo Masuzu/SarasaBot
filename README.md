@@ -34,7 +34,7 @@ Sarasa Bot consists in an executable program and a Chrome Extension. Contrary to
 Sarasa Bot does not store any personal information about the user account.
 
 
-# [Download website](https://poker-bot.azurewebsites.net/SarasaBot/en/Home)
+# [Download website](https://gbtools.azurewebsites.net/SarasaBot/en/Home)
 
 ## Why Viramate or (insert here any other extension name which can be found on the Chrome store) can be easily detected?
 
