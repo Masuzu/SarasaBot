@@ -62,5 +62,5 @@ Just to give you some context, this allowed players to increase the speed of the
 
 [Frequently Asked Questions](https://github.com/Masuzu/SarasaBot/wiki/FAQ)
 
-Current version patch notes [2.12.7](https://gbtools.azurewebsites.net/SarasaBot/en/Home/PatchNotes#2-12-7)
+Current version patch notes [2.12.8](https://gbtools.azurewebsites.net/SarasaBot/en/Home/PatchNotes#2-12-8)
 
